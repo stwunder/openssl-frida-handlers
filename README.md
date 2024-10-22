@@ -1,6 +1,6 @@
 # Project Title
 
-OpenSSL Frida Handlers
+Frida Handlers for OpenSSL
 
 ## Description
 
