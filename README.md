@@ -13,7 +13,7 @@ Frida handlers for OpenSSL
 5. Do not use fewer than 1,000 iterations for password based encryption (PBE).
 6. Do not use static seeds to initialize secure random generator.
 7. Use of a broken or risky cryptographic algorithm.
-  7a. Use of weak hash algorithm.
+7a. Use of weak hash algorithm.
 
 If a misuse of one of the above rules is detected, a rule violation is traced to the console.
 
